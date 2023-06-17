@@ -1,0 +1,70 @@
+.fontifyy{
+  color: rgb(255, 255, 255);
+  align-self: center;
+  position: absolute;
+  font-size: 10vw;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+  }
+
+
+
+  
+
+body {
+  background-image: url("bg.avif");
+  background-size: cover; /* Adjust as needed */
+  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+
+}
+.searchbox{
+  text-align: center;
+  position:absolute;
+  top:60%;
+  left: 31%;
+  width:35vw;
+}
+.searchbar {
+  width: 33vw;
+  border: none;
+  padding: 8px;
+  font-size: 14px;
+  border-radius: 5px;
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(76, 73, 73, 0.1);
+}
+
+
+
+.searchbutton {
+  border: none;
+  top:60%;
+  left: 73em;
+  position: fixed;
+  font-family: Roboto;
+  color: gray;
+  padding: 8px;
+  font-size: 14px;
+  border-radius: 5px;
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+footer {
+  background-color: transparent;
+  color: #ffffff;
+  padding: 10px;
+  text-align: center;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
