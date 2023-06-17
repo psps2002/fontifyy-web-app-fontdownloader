@@ -1,0 +1,2 @@
+# fontifyy-app-downloader
+ Fontifyy is a web-based project that allows users to search for fonts. It provides a user-friendly interface where users can enter the name of a font and instantly find information about it. The project displays the font name, along with a download link if the font is available in the API directory. If the font is not found, it suggests alternative options from popular font libraries. Fontifyy aims to assist users in discovering and accessing different fonts conveniently.
